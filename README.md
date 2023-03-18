@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Avantika Padhy
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
-- 🌻 My hobbies are listening to music and gardening
+- 🌻 My hobbies are dancing and doodling
+- 
 
 
 
